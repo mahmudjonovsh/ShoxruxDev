@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Frontend & Backend development**
 - 💻 Tech stack: **React, Next.js, JavaScript, Python, Django**
 - 🎯 Goal: Build scalable, modern, and user-friendly web apps
-- 📫 How to reach me: [Telegram](https://t.me/mahmudjonovsh) | [Email](maxmudjonovshoxrux784:@gmai.com)
+- 📫 How to reach me: [Telegram](https://t.me/mahmudjonovsh) | [Email](maxmudjonovshoxrux784@gmail.com)
 
 ---
 
@@ -27,8 +27,8 @@
 ---
 
 ### 📂 Featured Projects
-- [🌐 Portfolio Website](https://your-portfolio-link.com) — My personal portfolio built with Next.js
-- [🛒 E-commerce App](https://demo-link.com) — Fullstack shop app with React & Django
+- [🌐 Portfolio Website](https://unit-school.uz) — My personal portfolio built with Next.js
+- [🛒 E-commerce App](https://unit-school.uz) — Fullstack shop app with React & Django
 
 ---
 
